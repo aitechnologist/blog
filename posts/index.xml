@@ -6,10 +6,20 @@
     <description>Recent content in Posts on AI Technologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Mar 2022 16:00:27 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 11:30:45 +0530</lastBuildDate>
     
 	<atom:link href="https://aitechnologist.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI This Week - May 2nd</title>
+      <link>https://aitechnologist.github.io/blog/posts/aithisweek-may2-22/</link>
+      <pubDate>Mon, 02 May 2022 11:30:45 +0530</pubDate>
+      
+      <guid>https://aitechnologist.github.io/blog/posts/aithisweek-may2-22/</guid>
+      <description>This Article Was Written by AI ~ gizmodo. &amp;ldquo;Is your job safe from artificial intelligence? As a writer who depends on finding the right words for my own thoughts, I foolishly believed I might be relatively robot-proof&amp;rdquo;
+ Meredith Dietz likes to hope that there are some areas of uniquely human creativity that can’t be produced by AI quite yet, only to realize that AI copywriting sites and bots have proved this wrong.</description>
+    </item>
     
     <item>
       <title>Welcome</title>
@@ -23,7 +33,7 @@
   Sharing insights on new technologies in AI
   Providing a front seat preview on conferences, webinars and workshops.
   Reviews of Courses, Books, Videos and Tutorials.
-  reach out to know more</description>
+  </description>
     </item>
     
   </channel>
